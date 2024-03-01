@@ -1,0 +1,55 @@
+
+
+.header-all{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;    
+}
+
+.logo{
+    width: 200px;
+    height: 100;
+    margin-right:19px;
+}
+.nav{
+    padding: 10px ;
+    margin : 0;
+    
+}
+.nav ul{
+    list-style : none;
+    margin : 0;
+    padding : 0;
+    display:flex;
+}
+
+.nav ul li:hover{
+    text-decoration: none;
+    color:#8ABE53;
+}
+.nav ul li {
+    color:#096A2E;
+    font-size:23px;
+    background: white;
+    float : right;
+    text-align : center;
+    padding: 14px 16px;
+    margin-top:1px;
+    margin-right : 20px;
+
+}
+
+
+/* button{
+    color:white;
+    background : #096A2E;
+    border : none;
+    margin : 200px;
+    padding : 5px;
+    margin-right: 500vh;
+} */
+
+/* .content h1 {
+    font-size : 20px;
+} */

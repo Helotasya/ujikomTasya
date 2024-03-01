@@ -1,0 +1,85 @@
+.menulogo{
+    width: 150px;
+    height: 50;
+    margin-left:10px;
+}
+
+
+
+.card-container{
+    width: 99vw;
+    height: auto;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 10px;
+    background-color: antiquewhite;
+
+}
+
+.container-1{
+    margin: 15px;
+    width: 100%;
+    height: 60%;
+    display: flex;
+    /* background: blue */
+}
+
+.container-2{
+    display: flex;
+}
+.container-2 img{
+    width: 200px;
+}
+
+.menu-container{
+    margin: 15px;
+}
+
+.box-1{
+    width: 50%;
+    height: 100%;
+    /* background: green; */
+}
+
+box-1{
+    display:flex;
+    
+}
+
+.box-2{
+    width: 50%;
+    height: 100%;
+    /* background: pink; */
+}
+
+.menu-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.menu-1{
+    font-size: 15px;
+    font-weight: 200;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.menu-1 h3{
+    font-weight: 400;
+}
+
+.menu-1 h3 sup{
+    font-size: 10px;
+
+}
+
+.menu-1 p{
+    font-size: 15px;
+}
